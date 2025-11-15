@@ -11,4 +11,13 @@ The Finite Amplitude Impulse Response (FaIR) model can be used to predict temper
 
 _Figure 1: A comparison of the four scenarios using RTX Pratt & Whitney engines, modelled using FaIR in this review, wherein A = aggressive (30% engine efficiency), C = conservative (25% engine efficiency), S = synthetic fuel-efficient engine, T = traditional non-fuel-efficient engine. Each scenario is run for the next 100 years, starting at 2026, ending 2125._
 
+## Discussing the Implications of Aviation Emissions Modelling
+This solution shows strong potential as it connects the realistic aviation data with an esteemed climate model. It uses the FaIR model, recognized by the IPCC, thereby enhancing its credibility while acknowledging its limits, providing confidence in the model's findings. Technologically, including real efficiency values, growth rates, and manufacturer data makes results more practical and applicable, as the dynamic time warping reveals that even the smaller, modest efficiency gains can produce long-term benefits. 
+
+Financially, the usage of this model also identifies the importance of transparency and offering information to pertinent investors. An uncertainty for investors leads to less drive to engineer and invest in new technologies that will yield long-term gains. Socially, this model also corrects public misconceptions and clarifies the total climate impact of aviation, which is smaller than is generally assumed. Politically, this solution encourages data-driven policies that are dependent on reported global standards. Overall, this solution offers a balanced, evidence-based perspective that links data accuracy with real-world industrial and societal relevance.
+
+## Key Takeaways of the Proposed Solution
+The combined use of SAFs and fuel-efficient engines poses a promising solution. SAFs provide immediate emission reductions as most meet current fuel specifications and can be blended with conventional jet fuels (Detsios et al. 2023). The use of SAFs also opens the door to life-cycle CO2 emission reductions when produced using renewable energy and low-carbon sources, while also reducing non-CO2 contributions, such as soot and contrail ice (Puschnigg et al. 2023 and Khan 2025). Furthermore, newer planes with fuel-efficient engines have been shown to emit around 20% less CO2 per flight due to lower fuel consumption (Bernardo and Fageda 2025). Both strategies, when combined, have a synergistic effect that greatly reduces the aviation industry's overall emissions and the overall impact on climate change. 
+
 ## References
+
