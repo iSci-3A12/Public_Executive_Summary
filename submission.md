@@ -20,4 +20,31 @@ Financially, the usage of this model also identifies the importance of transpare
 The combined use of SAFs and fuel-efficient engines poses a promising solution. SAFs provide immediate emission reductions as most meet current fuel specifications and can be blended with conventional jet fuels (Detsios et al. 2023). The use of SAFs also opens the door to life-cycle CO2 emission reductions when produced using renewable energy and low-carbon sources, while also reducing non-CO2 contributions, such as soot and contrail ice (Puschnigg et al. 2023 and Khan 2025). Furthermore, newer planes with fuel-efficient engines have been shown to emit around 20% less CO2 per flight due to lower fuel consumption (Bernardo and Fageda 2025). Both strategies, when combined, have a synergistic effect that greatly reduces the aviation industry's overall emissions and the overall impact on climate change. 
 
 ## References
+    Aerovision International. 2021. “How Can Aircraft Engines Increase Their Efficiency?” September 29. 
+        https://aerovi.com/aircraft-engine-efficiency/.
 
+    Bernardo, Valeria, and Xavier Fageda. 2025. “The Impact of New Aircraft on Carbon Emissions.” Transportation Research Part D: Transport and Environment 147 (October): 104949.        
+        https://doi.org/10.1016/j.trd.2025.104949.
+    
+    Detsios, Nikolaos, Stella Theodoraki, Leda Maragoudaki, Konstantinos Atsonios, Panagiotis Grammelis, and Nikolaos G. Orfanoudakis. 2023. “Recent Advances on Alternative Aviation Fuels/Pathways: A Critical 
+        Review.” Energies 16 (4): 1904. https://doi.org/10.3390/en16041904.
+    
+    Khan, Sameer. 2025. “Exploring the Non-CO2 Climate Benefits of Sustainable Aviation Fuel and Low-Aromatic Jet Fuels.” VURDHAAN | Your Sustainability, Our Expertise, May 6. 
+        https://vurdhaan.com/exploring-the-non-co2-climate-benefits-of-sustainable-aviation-fuel-and-low-aromatic-jet-fuels/.
+    
+    Lee, David S., David W. Fahey, Piers M. Forster, et al. 2009. “Aviation and Global Climate Change in the 21st Century.” Atmospheric Environment 43 (22): 3520–37. 
+        https://doi.org/10.1016/j.atmosenv.2009.04.024.
+    
+    Puschnigg, Stefan, Karin Fazeni-Fraisl, Johannes Lindorfer, and Thomas Kienberger. 2023. “Biorefinery Development for the Conversion of Softwood Residues into Sustainable Aviation Fuel: Implications from Life 
+    
+    Cycle Assessment and Energetic-Exergetic Analyses.” Journal of Cleaner Production 386 (February): 135815. 
+        https://doi.org/10.1016/j.jclepro.2022.135815.
+    
+    Ritchie, Hannah. 2024. “What Share of Global CO₂ Emissions Come from Aviation?” Our World in Data, April 8. 
+        https://ourworldindata.org/global-aviation-emissions.
+    
+    Shahriar, Md Fahim, and Aaditya Khanal. 2022. “The Current Techno-Economic, Environmental, Policy Status and Perspectives of Sustainable Aviation Fuel (SAF).” Fuel 325 (October): 124905.       
+        https://doi.org/10.1016/j.fuel.2022.124905.
+    
+    Smith, Christopher J., Piers M. Forster, Myles Allen, et al. 2018. “FAIR v1.3: A Simple Emissions-Based Impulse Response and Carbon Cycle Model.” Geoscientific Model Development 11 (6): 2273–97.     
+        https://doi.org/10.5194/gmd-11-2273-2018.
